@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.add__container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.delete__icon{
+    color: red;
+    cursor: pointer;
+}
